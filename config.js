@@ -21,17 +21,17 @@ global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දා�
 global.REACT_NUMBER = '9476342733' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
-global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
-global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Vihanga MD*' //මෙතන නම.
+global.owner = ['94761036291',''] //මෙතන number එක.
+global.premium = ['94761036291','94761036291'] //මෙතන number එක.
+global.botname = 'Dinu BoT MD' //මෙතන නම.
+global.ownername = 'Dinu MD' //මෙතන නම.
+global.ownername = 'Dinu Officialz' //මෙතන නම.
+global.group1 = 'https://chat.whatsapp.com/KsztKNJTHpH3ik3HG1Cxo7' //මෙතන grouplink එක.
+global.group2 = 'https://chat.whatsapp.com/KsztKNJTHpH3ik3HG1Cxo7' //මෙතන grouplink එක.
+global.packname = 'Dinu Officialz BoT' //මෙතන නම.
+global.cap = '*By Dinu MD*' //මෙතන නම.
 global.img = 'https://telegra.ph/file/88d6fdeff08bbc4945901.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8' //මෙතන කැමති ලින්ක් එකක්.
+global.ytchannel = 'https://youtube.com/channel/UC1fnEjMHmwiOs76JXjiWDig' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
 global.darahawal = '100' //මෙතන මාරු කරන්න එපා.
 global.besiAwal = '15' //මෙතන මාරු කරන්න එපා.
@@ -52,7 +52,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip' //මෙතන මාරු කරන්න එපා.
 global.f5 = 'application/pdf' //මෙතන මාරු කරන්න එපා.
 global.f6 = 'application/vnd.android.package-archive' //මෙතන මාරු කරන්න එපා.
-global.author = 'VIHANGA BOT INC' //මෙතන නම.
+global.author = 'Dinu officialz BoT' //මෙතන නම.
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text=' //මෙතන මාරු කරන්න එපා.
 global.sessionName = 'session' //මෙතන මාරු කරන්න එපා.
 global.prefa = ['','!','.','🐦','🐤','🗿'] //මෙතන මාරු කරන්න එපා.
